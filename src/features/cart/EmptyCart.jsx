@@ -2,10 +2,17 @@ import LinkButton from "../../ui/LinkButton";
 
 function EmptyCart() {
   return (
-    <div>
-      <LinkButton to="/menu">&larr; Back to menu</LinkButton>
+    <div className="px-4 py-3">
+      <LinkButton
+        to="/menu"
+        className="text-sm text-blue-500 hover:text-blue-600 hover:underline"
+      >
+        &larr; Back to menu
+      </LinkButton>
 
-      <p>Your cart is still empty. Start adding some pizzas :)</p>
+      <p className="mt-8 font-semibold">
+        Your cart is still empty. Start adding some pizzas :)
+      </p>
     </div>
   );
 }
