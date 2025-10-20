@@ -1,8 +1,18 @@
-# React + Vite
+# 🍕 Fast React Pizza
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React learning project focused on **state management**, **React Router**, and **component-driven development**.  
+Part of a deep dive into React best practices and performance optimization.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 What I Learned
+- Client-side routing with React Router  
+- Managing global state effectively  
+- Building reusable UI components  
+
+---
+
+## 🛠️ Tech Stack
+- React  
+- JavaScript  
+- Tailwind CSS  
